@@ -76,3 +76,7 @@ The precision for low risk is 1 again and little higher for high risk but still 
 The sensitivity for low risk is 95% and for high risk of 87%,the highest until now.
 
 ![Screen Shot 2022-07-12 at 11 10 26 PM](https://user-images.githubusercontent.com/43548929/178648944-7f1ac081-8c39-497c-ad2e-a3d601966620.png)
+
+
+## Summary
+
