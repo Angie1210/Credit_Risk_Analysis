@@ -9,3 +9,7 @@ Sci-kit learn library, Imbalanced_learn library, Pandas, Jupyter notebook, [Loan
 ## Results
 
 ### RandomOverSampler model
+
+![Screen Shot 2022-07-12 at 11 04 21 PM](https://user-images.githubusercontent.com/43548929/178648298-dc1f8ceb-6845-4e52-b1ab-9426ea03b681.png)
+
+### 
