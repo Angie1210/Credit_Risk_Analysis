@@ -14,4 +14,4 @@ Sci-kit learn library, Imbalanced_learn library, Pandas, Jupyter notebook, [Loan
 
 ### 
 ![Screen Shot 2022-07-12 at 11 10 26 PM](https://user-images.githubusercontent.com/43548929/178648944-7f1ac081-8c39-497c-ad2e-a3d601966620.png)
-![Screen Shot 2022-06-20 at 10 27 40 AM](https://user-images.githubusercontent.com/43548929/178648953-0d9989a8-1ec3-49ec-9f7b-4310c336fb65.png)
+
