@@ -80,3 +80,4 @@ The sensitivity for low risk is 95% and for high risk of 87%,the highest until n
 
 ## Summary
 
+As we can see the resample models are not a good option for identifyng the credit risk, because they have a terrible precision with the True High risk and also the sensitivity is really low. The ensemble models made a better job, actually the only one that I would recommend to use is the Easy Ensemble AdaBoost Classifier because its accuracy is of 91% at properly classified the risk. It's precision for high risk was the highest one but it still letting go low risk cases classifying them as a high risk, but that is a better than the opposite. Also the sensitivity is really good for high risk, it means that he is avoiding most of the hight risk cases properly.
