@@ -5,3 +5,7 @@ In this project we are going to use different Machine Learning models in order t
 
 ## Resources
 Sci-kit learn library, Imbalanced_learn library, Pandas, Jupyter notebook, [LoanStats_2019Q1.csv.zip](/LoanStats_2019Q1.csv.zip)
+
+## Results
+
+### RandomOverSampler model
